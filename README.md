@@ -6,6 +6,9 @@
 Это центральный репозиторий приложения, которой содержит только описание.
 Приложение реализуется на основе микросервисной архитектуры.
 
-Сервисы:
-----
-- [Сервис регистрации [hola-api-register-ms]](https://github.com/raphaelgolubev/hola-api-register-ms)
+# Клонирование
+
+Чтобы клонировать репозиторий, включая все подмодули, выполните:
+```
+git clone --recurse-submodules https://github.com/raphaelgolubev/hola-api
+```
