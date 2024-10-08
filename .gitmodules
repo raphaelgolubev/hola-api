@@ -1,15 +1,20 @@
 [submodule "hola-api-register-ms"]
 	path = hola-api-register-ms
 	url = https://github.com/raphaelgolubev/hola-api-register-ms
+	branch = develop
 [submodule "hola-api-user-ms"]
 	path = hola-api-user-ms
 	url = https://github.com/raphaelgolubev/hola-api-user-ms
+	branch = develop
 [submodule "hola-api-video-ms"]
 	path = hola-api-video-ms
 	url = https://github.com/raphaelgolubev/hola-api-video-ms
+	branch = develop
 [submodule "hola-api-product-ms"]
 	path = hola-api-product-ms
 	url = https://github.com/raphaelgolubev/hola-api-product-ms
+	branch = develop
 [submodule "hola-api-auth-ms"]
 	path = hola-api-auth-ms
 	url = https://github.com/raphaelgolubev/hola-api-auth-ms
+	branch = develop
