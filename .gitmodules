@@ -1,0 +1,3 @@
+[submodule "hola-api-register-ms"]
+	path = hola-api-register-ms
+	url = https://github.com/raphaelgolubev/hola-api-register-ms
