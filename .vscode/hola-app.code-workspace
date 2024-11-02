@@ -3,5 +3,19 @@
         {
             "path": "../"
         },
-    ]
+    ],
+    "extensions": {
+        "recommendations": [
+            "pomdtr.excalidraw-editor",
+            "ms-azuretools.vscode-docker",
+            "bungcip.better-toml",
+            "cweijan.dbclient-jdbc",
+            "vsls-contrib.gistfs",
+            "mhutchie.git-graph",
+            "quentinguidee.gitignore-ultimate",
+            "cweijan.vscode-postgresql-client2",
+            "exiasr.hadolint",
+            "peterj.proto"
+        ]
+    }
 }
