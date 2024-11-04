@@ -18,3 +18,6 @@
 	path = hola-api-auth-ms
 	url = https://github.com/raphaelgolubev/hola-api-auth-ms
 	branch = develop
+[submodule "hola-api-gateway"]
+	path = hola-api-gateway
+	url = https://github.com/raphaelgolubev/hola-api-gateway
