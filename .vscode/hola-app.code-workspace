@@ -17,5 +17,7 @@
             "exiasr.hadolint",
             "peterj.proto"
         ]
+    },
+    "settings": {
     }
 }
